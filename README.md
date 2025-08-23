@@ -17,13 +17,13 @@ Supports **batch processing**, so you can quickly convert multiple files at once
 ## Screenshots
 - Here’s how the script looks when executed in the terminal:
 
-**1. Running Script
+### Running Script
 ![Script Running](Screenshots/Terminal.jpg)
 
-**2. New Folder Created (If not exists)
+### New Folder Created (If not exists)
 ![New Folder](Screenshots/New_Folder_Created.jpg)
 
-**3. Converted Images
+### Converted Images
 ![Converted Results](Screenshots/Files_Converted.jpg)
 
 ---
@@ -40,6 +40,7 @@ Supports **batch processing**, so you can quickly convert multiple files at once
 
     ```bash
    pip install -r requirements.txt
+
 
 
 
